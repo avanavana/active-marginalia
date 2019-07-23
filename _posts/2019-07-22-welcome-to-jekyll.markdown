@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Active Marginalia!"
 date:   2019-07-22 18:09:40 -0400
 categories: jekyll update
 ---
