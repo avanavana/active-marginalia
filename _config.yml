@@ -20,14 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: https://www.activemarginalia.com # the base hostname & protocol for your site, e.g. http://example.com
 github_username: avanavana
+twitter_username: activemargin
 google_analytics: UA-114729984-2
-social_links:
-  twitter: activemargin
-  github: avanavana
-minima:
-  social_links:
-    twitter: activemargin
-    github: avanavana
   
 date_format: '%-d %b, %Y'
 
