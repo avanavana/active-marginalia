@@ -21,6 +21,9 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: https://www.activemarginalia.com # the base hostname & protocol for your site, e.g. http://example.com
 github_username: avanavana
 google_analytics: UA-114729984-2
+social_links:
+  twitter: activemargin
+  github: avanavana
 minima:
   social_links:
     twitter: activemargin
