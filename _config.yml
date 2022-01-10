@@ -22,7 +22,7 @@ url: https://www.activemarginalia.com # the base hostname & protocol for your si
 github_username: avanavana
 twitter_username: activemargin
 google_analytics: UA-114729984-2
-  
+
 date_format: '%-d %b, %Y'
 
 # Build settings
@@ -30,6 +30,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+include:
+  - _redirects
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
